@@ -1,0 +1,49 @@
+# Site Settings
+title: "Rishabh D Upadhyay"
+tagline: "Consultant Engineer | 8 Years in Telecom/ISP"
+description: >-
+  Professional blog sharing insights on Project Management, Networking, 
+  and my Cybersecurity learning journey. PMP & Data Science Certified.
+  Currently preparing for ISC2 CC & CompTIA Security+.
+
+# Author
+author:
+  name: Rishabh Dutt Upadhyay
+  email: your.email@example.com
+  
+# URLs
+url: "https://RdUyay.github.io"
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Minima theme settings
+minima:
+  skin: dark
+  
+# Social links
+github_username: RdUyay
+linkedin_username: rdupadhyay
+
+# Blog settings
+show_excerpts: true
+paginate: 5
+paginate_path: "/page:num/"
+
+# Collections
+collections:
+  - projects
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Rishabh D Upadhyay"
