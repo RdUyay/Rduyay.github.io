@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-![Rduyay.github.io](/assets/images/avatar12.jpg)
+![Rishabh D Upadhyay](assets/images/avatar12.jpg)
 
 ## About Me
 
