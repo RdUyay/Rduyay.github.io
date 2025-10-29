@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-![Rishabh D Upadhyay](/avatar12.jpg)
+![](/avatar12.jpg)
 
 ## About Me
 
@@ -62,7 +62,7 @@ I'm always interested in connecting with professionals in project management, te
 
 - 💼 [LinkedIn](https://linkedin.com/in/rdupadhyay)
 - 💻 [GitHub](https://github.com/RdUyay)
-- 📧 Email: your.email@example.com
+- 📧 [Email](rdu.blog@gmail.com)
 
 ---
 
